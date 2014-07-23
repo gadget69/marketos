@@ -15,7 +15,7 @@ body {
 
 .box-light {
 
-    padding: 5px;
+    padding-top: 10px;
 
     background-color: #E5E5E5;
 
@@ -70,5 +70,15 @@ div#footer dd {
 body>div:nth-child(2) {
 
     box-shadow: 0px 0px 30px 0px rgba(38, 38, 38, 0.75);
+
+}
+
+.featurette div {
+
+    display: inline-block;
+
+    text-align: justify;
+
+    vertical-align: middle;
 
 }
